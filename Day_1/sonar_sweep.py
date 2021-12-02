@@ -1,5 +1,3 @@
-import sys
-
 if __name__ == "__main__":
 
     increased_count = 0
